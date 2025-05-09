@@ -27,7 +27,7 @@ git clone https://github.com/seu-usuario/exercicios-excecoes-java.git
 | `01` | `Divida dois números inteiros` | `Crie um programa que divida dois números e trate uma possível ArithmeticException (divisão por zero).` |
 | `02` | `Converta uma String` | `Converta uma String para int usando Integer.parseInt(). Trate NumberFormartException` |
 | `03` | `Posição de um Array` | `Leia uma posição de um array usando um índice informado pelo usuário. Trate ArrayIndexOutOfBoundsException.` |
-| `04` | `` | `` |
+| `04` | `Programa que leia o Nome` | `Crie um porgrama que leia um nome e exiba seu comprimento. Trate NullPointerException.` |
 | `05` | `` | `` |
 | `06` | `` | `` |
 | `07` | `` | `` |

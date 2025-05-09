@@ -25,7 +25,7 @@ git clone https://github.com/seu-usuario/exercicios-excecoes-java.git
 | Dia | Desafio | Descrição |
 | :---------------- | :--------- | :--------- |
 | `01` | `Divida dois números inteiros` | `Crie um programa que divida dois números e trate uma possível ArithmeticException (divisão por zero).` |
-| `02` | `` | `` |
+| `02` | `Converta uma String` | `Converta uma String para int usando Integer.parseInt(). Trate NumberFormartException` |
 | `03` | `` | `` |
 | `04` | `` | `` |
 | `05` | `` | `` |

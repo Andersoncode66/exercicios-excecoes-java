@@ -24,7 +24,7 @@ git clone https://github.com/seu-usuario/exercicios-excecoes-java.git
 ## 💻Exercícios Básicos
 | Dia | Desafio | Descrição |
 | :---------------- | :--------- | :--------- |
-| `01` | `` | `` |
+| `01` | `Divida dois números inteiros` | `Crie um programa que divida dois números e trate uma possível ArithmeticException (divisão por zero).` |
 | `02` | `` | `` |
 | `03` | `` | `` |
 | `04` | `` | `` |

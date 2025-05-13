@@ -30,7 +30,7 @@ git clone https://github.com/seu-usuario/exercicios-excecoes-java.git
 | `04` | `Programa que leia o Nome` | `Crie um porgrama que leia um nome e exiba seu comprimento. Trate NullPointerException.` |
 | `05` | `Arquivo inexistente` | `Tente abrir um arquivo inexistente com FileReader. Trate FileNotFoundException` |
 | `06` | `Calculadora` | `Crie uma calculadora que recebe dois valores. Trate exceções de entrada inválida.` |
-| `07` | `` | `` |
+| `07` | `Converta uma String` | `Converta uma String em double usando Double.parseDouble() com tratamento de erro.` |
 | `08` | `` | `` |
 | `09` | `` | `` |
 | `10` | `` | `` |

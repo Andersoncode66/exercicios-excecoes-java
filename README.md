@@ -29,7 +29,7 @@ git clone https://github.com/seu-usuario/exercicios-excecoes-java.git
 | `03` | `Posição de um Array` | `Leia uma posição de um array usando um índice informado pelo usuário. Trate ArrayIndexOutOfBoundsException.` |
 | `04` | `Programa que leia o Nome` | `Crie um porgrama que leia um nome e exiba seu comprimento. Trate NullPointerException.` |
 | `05` | `Arquivo inexistente` | `Tente abrir um arquivo inexistente com FileReader. Trate FileNotFoundException` |
-| `06` | `` | `` |
+| `06` | `Calculadora` | `Crie uma calculadora que recebe dois valores. Trate exceções de entrada inválida.` |
 | `07` | `` | `` |
 | `08` | `` | `` |
 | `09` | `` | `` |

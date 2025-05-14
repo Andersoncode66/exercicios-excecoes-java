@@ -31,7 +31,7 @@ git clone https://github.com/seu-usuario/exercicios-excecoes-java.git
 | `05` | `Arquivo inexistente` | `Tente abrir um arquivo inexistente com FileReader. Trate FileNotFoundException` |
 | `06` | `Calculadora` | `Crie uma calculadora que recebe dois valores. Trate exceções de entrada inválida.` |
 | `07` | `Converta uma String` | `Converta uma String em double usando Double.parseDouble() com tratamento de erro.` |
-| `08` | `` | `` |
+| `08` | `Simule uma exceção` | `Simule uma exceção manualmente usando throw new ArithmeticException` |
 | `09` | `` | `` |
 | `10` | `` | `` |
 

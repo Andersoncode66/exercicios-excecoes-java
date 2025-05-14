@@ -32,7 +32,7 @@ git clone https://github.com/seu-usuario/exercicios-excecoes-java.git
 | `06` | `Calculadora` | `Crie uma calculadora que recebe dois valores. Trate exceções de entrada inválida.` |
 | `07` | `Converta uma String` | `Converta uma String em double usando Double.parseDouble() com tratamento de erro.` |
 | `08` | `Simule uma exceção` | `Simule uma exceção manualmente usando throw new ArithmeticException` |
-| `09` | `` | `` |
+| `09` | `Raiz quadrada` | `Crie uma função que retorna a raiz quadrada de um número. Lance exceção se o número for negativo.` |
 | `10` | `` | `` |
 
 

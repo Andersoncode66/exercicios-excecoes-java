@@ -40,7 +40,7 @@ git clone https://github.com/seu-usuario/exercicios-excecoes-java.git
 ## 💻Exercícios Intermediários(11-25)
 | Dia | Desafio | Descrição |
 | :---------------- | :--------- | :--------- |
-| `01` |`.`| `` |
+| `01` |`Menu de opções`| `Faça um programa com um menu de opções e trate entradas inválidas do usuário.` |
 | `02` |`.`| `` |
 | `03` |`.`| `` |
 | `04` |`.`| `` |

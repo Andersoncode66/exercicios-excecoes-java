@@ -40,8 +40,8 @@ git clone https://github.com/seu-usuario/exercicios-excecoes-java.git
 ## 💻Exercícios Intermediários(11-25)
 | Dia | Desafio | Descrição |
 | :---------------- | :--------- | :--------- |
-| `01` |`Menu de opções`| `Faça um programa com um menu de opções e trate entradas inválidas do usuário.` |
-| `02` |`.`| `` |
+| `11` |`Menu de opções`| `Faça um programa com um menu de opções e trate entradas inválidas do usuário.` |
+| `12` |`Classe ContaBancaria`| `Crie uma classe ContaBancaria. Lance exceção se o saque for maior que o saldo.` |
 | `03` |`.`| `` |
 | `04` |`.`| `` |
 | `05` |`.`| `` |

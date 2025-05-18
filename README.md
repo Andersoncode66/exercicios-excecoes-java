@@ -42,7 +42,7 @@ git clone https://github.com/seu-usuario/exercicios-excecoes-java.git
 | :---------------- | :--------- | :--------- |
 | `11` |`Menu de opções`| `Faça um programa com um menu de opções e trate entradas inválidas do usuário.` |
 | `12` |`Classe ContaBancaria`| `Crie uma classe ContaBancaria. Lance exceção se o saque for maior que o saldo.` |
-| `03` |`.`| `` |
+| `13` |`Programa com múltiplos de catch`| `Implemente um programa com múltiplos blocos catch` |
 | `04` |`.`| `` |
 | `05` |`.`| `` |
 | `06` |`.`| `` |

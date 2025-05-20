@@ -44,7 +44,7 @@ git clone https://github.com/seu-usuario/exercicios-excecoes-java.git
 | `12` |`Classe ContaBancaria`| `Crie uma classe ContaBancaria. Lance exceção se o saque for maior que o saldo.` |
 | `13` |`Programa com múltiplos de catch`| `Implemente um programa com múltiplos blocos catch` |
 | `14` |`Exceção personalizada`| `Crie um método que só aceita strings numéricas. Lance exceção personalizada se for texto.` |
-| `05` |`.`| `` |
+| `15` |`Calculadora IMC`| `Faça uma calculadora IMC. Trate divisões por zero e entrada inválida.` |
 | `06` |`.`| `` |
 | `07` |`.`| `` |
 | `08` |`.`| `` |

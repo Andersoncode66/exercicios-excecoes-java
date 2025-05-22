@@ -45,7 +45,7 @@ git clone https://github.com/seu-usuario/exercicios-excecoes-java.git
 | `13` |`Programa com múltiplos de catch`| `Implemente um programa com múltiplos blocos catch` |
 | `14` |`Exceção personalizada`| `Crie um método que só aceita strings numéricas. Lance exceção personalizada se for texto.` |
 | `15` |`Calculadora IMC`| `Faça uma calculadora IMC. Trate divisões por zero e entrada inválida.` |
-| `06` |`.`| `` |
+| `16` |`Exceção personalizada`| `Implemente uma exceção personalizada chamada EntradaInvalidaException.` |
 | `07` |`.`| `` |
 | `08` |`.`| `` |
 | `09` |`.`| `` |
